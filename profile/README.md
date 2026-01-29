@@ -1,6 +1,6 @@
 # Callum's Corner
 
-Welcome to the official GitHub organisation for [Callum's Corner](https://callumscorner.com)
+Welcome to the official GitHub page for [Callum's Corner](https://callumscorner.com)
 
 ## About
 
@@ -20,10 +20,10 @@ You can view the live server map powered by [BlueMap](https://github.com/BlueMap
 
 This organisation contains various projects including:
 
-- **Server Plugins** — Custom Paper plugins developed specifically for The Corner MC
-- **Website** — Source code and assets for callumscorner.com
-- **Bots & Tools** — Discord bots, automation scripts, and community tools (Mostly used in The Soprano Hub to remove inactive users or suspected alts)
-- **Configuration** — Server configs and deployment resources
+- **Server Plugins** - Custom Paper plugins developed specifically for The Corner MC
+- **Website** - Source code and assets for callumscorner.com
+- **Bots & Tools** - Discord bots, automation scripts, and community tools (Mostly used in The Soprano Hub to remove inactive users or suspected alts)
+- **Configuration** - Server configs and deployment resources
 
 ## 🔗 Links
 
