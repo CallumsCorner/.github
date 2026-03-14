@@ -25,13 +25,13 @@ This organisation contains various projects including:
 - **Bots & Tools** - Discord bots, automation scripts, and community tools (Mostly used in The Soprano Hub to remove inactive users or suspected alts)
 - **Configuration** - Server configs and deployment resources
 
-## 🔗 Links
+## Links
 
 - **Website:** [callumscorner.com](https://callumscorner.com)
 - **Minecraft Server:** `mc.callumscorner.com`
 - **Live Map:** [map.callumscorner.com](https://map.callumscorner.com)
 
-## 📜 License
+## License
 
 Individual repositories contain their own licensing information. Please refer to each project's LICENSE file for details.
 
